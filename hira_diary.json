@@ -1,0 +1,11 @@
+{
+  "ads_enabled": true,
+
+  "banner_home": true,
+  "banner_settings": true,
+  "banner_history": true,
+  "banner_expense": true,
+  "banner_saveprice": true,
+
+  "interstitial_home_onsave": true
+}
