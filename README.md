@@ -1,0 +1,2 @@
+# HandleAdsInApp
+Handle ad flags.
