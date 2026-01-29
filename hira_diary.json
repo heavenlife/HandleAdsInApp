@@ -1,11 +1,11 @@
 {
   "ads_enabled": true,
 
-  "banner_home": true,
+  "banner_home": false,
   "banner_settings": true,
-  "banner_history": true,
-  "banner_expense": true,
-  "banner_saveprice": true,
+  "banner_history": false,
+  "banner_expense": false,
+  "banner_saveprice": false,
 
   "interstitial_home_onsave": true
 }
