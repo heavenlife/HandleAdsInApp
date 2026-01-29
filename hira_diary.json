@@ -3,9 +3,9 @@
 
   "banner_home": false,
   "banner_settings": true,
-  "banner_history": false,
-  "banner_expense": false,
-  "banner_saveprice": false,
+  "banner_history": true,
+  "banner_expense": true,
+  "banner_saveprice": true,
 
-  "interstitial_home_onsave": true
+  "interstitial_home_onsave": false
 }
