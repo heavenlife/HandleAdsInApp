@@ -10,6 +10,7 @@
   "banner_grade_count": true,
   "banner_grade_point": true,
   "banner_stpi": true,
+  "banner_sem_eight": true,
 
   "reward_book_pdf": true
 }
