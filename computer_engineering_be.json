@@ -1,7 +1,7 @@
 {
   "ads_enabled": true,
 
-  "banner_home": false,
+  "banner_home": true,
   "banner_all_book_and_papers": true,
   "banner_gtu_portal_screen": true,
   "banner_semester_tabs": true,
