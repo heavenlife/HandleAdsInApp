@@ -12,5 +12,7 @@
   "banner_stpi": true,
   "banner_sem_eight": true,
 
-  "reward_book_pdf": true
+  "reward_book_pdf": true,
+
+  "poster_for_pdf": true
 }
