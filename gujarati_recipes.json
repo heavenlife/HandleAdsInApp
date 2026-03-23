@@ -1,9 +1,11 @@
 {
-  "ads_enabled": true,
+"ads_enabled": true,
 
-  "banner_home": true,
+"banner_home": true,
+"banner_details_one": true,
+"banner_details_two": true,
 
-  "reward_ad": true,
+"reward_ad": true,
 
-  "poster_for_recipe_details": true
+"poster_for_recipe_details": true
 }
