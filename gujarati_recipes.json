@@ -1,5 +1,5 @@
 {
-"ads_enabled": false,
+"ads_enabled": true,
 
 "banner_home": true,
 "banner_details_one": true,
@@ -7,5 +7,5 @@
 
 "reward_ad": true,
 
-"poster_for_recipe_details": true
+"poster_for_recipe_details": false
 }
