@@ -1,0 +1,26 @@
+{
+  "gemini": {
+    "models": {
+      "debug": [
+        "gemini-2.5-flash-lite",
+        "gemini-2.5-flash",
+        "gemini-flash-latest",
+        "gemini-3-flash-preview",
+        "gemini-2.5-pro",
+        "gemini-3.1-flash-lite-preview"
+      ],
+      "release": [
+        "gemini-2.5-flash-lite",
+        "gemini-2.5-flash",
+        "gemini-flash-latest",
+        "gemini-3-flash-preview",
+        "gemini-2.5-pro",
+        "gemini-3.1-flash-lite-preview"
+      ]
+    }
+  },
+  "ads": {
+   "ads_enabled": true,
+   "banner_home": true
+  }
+}
