@@ -1,11 +1,17 @@
 {
-"ads_enabled": true,
+  "ads_enabled": true,
 
-"banner_home": true,
-"banner_details_one": true,
-"banner_details_two": true,
+  "banner_home": true,
+  "banner_mileage_calc": true,
+  "banner_vehicle_age_calc": true,
+  "banner_fuel_expense_calc": true,
+  "banner_ques_list": true,
+  "banner_practice": true,
+  "banner_setting_one": true,
+  "banner_setting_two": true,
+  "banner_driving_laws": true,
 
-"reward_ad": true,
+  "reward_ad": true,
 
-"poster_for_recipe_details": true
+  "poster_ad": true
 }
