@@ -15,6 +15,10 @@
 "banner_setting_two": true,
 "banner_driving_laws": true,
 "banner_language": true,
+"banner_state": true,
+"banner_rto_office": true,
+"banner_pp": true,
+"banner_tc": true,
 
 "reward_ad": true,
 
