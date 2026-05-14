@@ -1,17 +1,22 @@
 {
-  "ads_enabled": true,
+"ads_enabled": true,
 
-  "banner_home": true,
-  "banner_mileage_calc": true,
-  "banner_vehicle_age_calc": true,
-  "banner_fuel_expense_calc": true,
-  "banner_ques_list": true,
-  "banner_practice": true,
-  "banner_setting_one": true,
-  "banner_setting_two": true,
-  "banner_driving_laws": true,
+"banner_home": true,
+"banner_mileage_calc_one": true,
+"banner_mileage_calc_two": true,
+"banner_vehicle_age_calc_one": true,
+"banner_vehicle_age_calc_two": true,
+"banner_fuel_expense_calc_one": true,
+"banner_fuel_expense_calc_two": true,
+"banner_ques_tab_one": true,
+"banner_ques_tab_two": true,
+"banner_practice": true,
+"banner_setting_one": true,
+"banner_setting_two": true,
+"banner_driving_laws": true,
+"banner_language": true,
 
-  "reward_ad": true,
+"reward_ad": true,
 
-  "poster_ad": true
+"poster_ad": true
 }
