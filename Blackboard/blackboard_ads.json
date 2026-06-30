@@ -1,15 +1,17 @@
 {
-"ads_enabled": true,
-
-"banner_bottom_home": true,
-
-"poster_add_new_page": true,
-
-"poster_share": true,
-
-"poster_clear_page": true,
-
-"poster_app_launch": true,                                                                                                                                    "poster_duplicate_page": true,                                                                                       Connect from 75+ providers to       
-
-"poster_background_switch": true   
+  "ads_enabled": true,
+  
+  "banner_bottom_home": true,
+  
+  "poster_add_new_page": true,
+  
+  "poster_share": true,
+  
+  "poster_clear_page": true,
+  
+  "poster_app_launch": true,
+  
+  "poster_duplicate_page": true,
+  
+  "poster_background_switch": true
 }
