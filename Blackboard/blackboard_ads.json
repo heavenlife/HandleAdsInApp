@@ -7,6 +7,6 @@
   "poster_app_launch": false,
   "poster_duplicate_page": true,
   "poster_background_switch": true,
-  "poster_app_open": false,
+  "poster_app_open": true,
   "poster_app_resume": true
 }
