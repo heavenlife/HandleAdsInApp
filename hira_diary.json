@@ -7,5 +7,7 @@
   "banner_expense": true,
   "banner_saveprice": true,
 
-  "interstitial_home_onsave": true
+  "interstitial_home_onsave": true,
+
+  "reward_share:": true
 }
