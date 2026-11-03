@@ -1,7 +1,11 @@
 {
   "ads_enabled": true,
-  "banner_bottom_home": true,
+  "banner_bottom_dashboard": true,
+  "banner_bottom_ai_prompt": true,
+  "banner_bottom_favorite": true,
+  "banner_bottom_download": true,
+  "banner_bottom_view_image": true,
   
-  "poster_full_screen_image": true,
-  "poster_full_screen_video": true,
+  "poster_download_image": true,
+  "poster_download_video": true
 }
