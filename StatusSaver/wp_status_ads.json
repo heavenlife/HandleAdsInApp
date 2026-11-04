@@ -1,0 +1,9 @@
+{
+  "ads_enabled": true,
+  "banner_settings": true,
+  
+  "poster_home_image": true,
+  "poster_home_video": true,
+  "poster_download_image": true,
+  "poster_download_video": true
+}
