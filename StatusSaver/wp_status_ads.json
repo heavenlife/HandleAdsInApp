@@ -1,6 +1,10 @@
 {
   "ads_enabled": true,
   "banner_settings": true,
+  "banner_home_image": true,
+  "banner_home_video": true,
+  "banner_download_image": true,
+  "banner_download_video": true,
   
   "poster_home_image": true,
   "poster_home_video": true,
